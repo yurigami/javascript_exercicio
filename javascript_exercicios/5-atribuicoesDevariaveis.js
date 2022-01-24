@@ -10,3 +10,13 @@ console.log(`meu nome é ${nome+" "+ sobrenome}`);
 
 nome = nome+" " +sobrenome 
 console.log(nome);
+
+let idade; //declarando variável
+idade = 26 // atribuindo valor
+idade = idade + 1;
+console.log(idade);
+
+
+
+
+
